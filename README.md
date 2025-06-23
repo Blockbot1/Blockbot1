@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuval Eliav
 ===================================================================================================================================
 
-Cybersecurity Administrator
+Student
 ---------------------------
 
 I am Highschool student. I am majoring in computer science as well as physics.
